@@ -1,0 +1,4 @@
+001 MieSedap Goreng TelurDadar 2
+002 Sarimi Kuah Sayur 3
+003 Sakura Kuah Sosis 1
+004 Indomie Goreng TelurRebus 1
